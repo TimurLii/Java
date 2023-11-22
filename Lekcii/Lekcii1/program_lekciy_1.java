@@ -1,3 +1,5 @@
+package Lekcii.Lekcii1;
+
 public class program_lekciy_1 {
     public static void main(String[] args) {
 
