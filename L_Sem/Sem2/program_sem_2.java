@@ -6,14 +6,16 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.logging.*;
 
+import static java.util.logging.Level.INFO;
+
 public class program_sem_2 {
     public static void main(String[] args) {
 //        System.out.println(task_1(20, '+', '-'));
-//        task_2("aaasdaasdsdsdsdaaddaasdww");
+        task_2("aaasdaasdsdsdsdaaddaasdww");
 //        System.out.println(task_3("123321"));
 //        System.out.println(wordRepiat(10,"TEST "));
 //        task_4(wordRepiat(10,"KAKA "));
-        task_5(wordRepiat(10,"Тру-ля-ля "));
+//        task_5(wordRepiat(10,"Тру-ля-ля "));
     }
 
 
@@ -87,6 +89,7 @@ public class program_sem_2 {
             writers.flush();
         } catch (IOException e) {
             logger.log(Level.WARNING,e.getMessage());
+
         }
 
     }
