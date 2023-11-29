@@ -1,10 +1,8 @@
 package L_Sem.Sem3;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.List;
 
-public class program_sem3 {
+public class Lekciy3 {
     public static void main(String[] args) {
 //        Object num = 1; GetType(num);
 //        num = 1.2;GetType(num);
