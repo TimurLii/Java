@@ -29,12 +29,27 @@ public class array {
 
 //        Практическая задача.
 //        ответить на вопрос "Столица Катара" и записать в массив
-        char[] answer = {'Д','o','x','a'};
+//        char[] answer = {'Д','o','x','a'};
 //        answer[0] = "Д";
 //        answer[1] = "о";
 //        answer[2] = "х";
 //        answer[3] = "а";
-        System.out.println(answer);
+//        System.out.println(answer);
+
+        int[] group1 = {180, 178, 190};
+        int[] group2 = {165, 195, 193};
+        int[][] multyArray = {group1, group2};
+        upperFor:
+        for (int[] array : multyArray) {
+            for (int number : array){
+                if (number == 178) {
+                    System.out.println("Нашли вора " + number);
+                    break upperFor;
+                   }
+                else System.out.println("Вора нет ");
+            }
+
+        }
 
     }
 }
