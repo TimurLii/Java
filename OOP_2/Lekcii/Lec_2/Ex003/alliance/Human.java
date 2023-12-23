@@ -1,6 +1,6 @@
-package Lesson_08.Ex003.alliance;
+package OOP_2.Lekcii.Lec_2.Ex003.alliance;
 
-import Lesson_08.Ex003.*;
+import OOP_2.Lekcii.Lec_2.Ex003.*;
 
 public class Human extends Druid {
     

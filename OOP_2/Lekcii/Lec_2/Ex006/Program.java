@@ -1,7 +1,9 @@
-package Lesson_08.Ex006;
+package OOP_2.Lekcii.Lec_2.Ex006;
 
 import Lesson_08.Ex006.Applications.Notepad;
-import Lesson_08.Ex006.Format.*;
+import OOP_2.Lekcii.Lec_2.Ex006.Format.Doc;
+import OOP_2.Lekcii.Lec_2.Ex006.Format.Md;
+import OOP_2.Lekcii.Lec_2.Ex006.Format.Txt;
 
 public class Program {
     public static void main(String[] args) {

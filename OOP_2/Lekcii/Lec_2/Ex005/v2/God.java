@@ -1,17 +1,17 @@
-package Lesson_08.Ex005.v2;
+package OOP_2.Lekcii.Lec_2.Ex005.v2;
 
 import Lesson_08.Ex005.v2.Healers.Healer;
 import Lesson_08.Ex005.v2.Warriors.Warrior;
 
-public class God extends Hero implements Healer, Warrior {
+public class God extends Lesson_08.Ex005.v2.Hero implements Healer, Warrior {
 
     @Override
-    public void attack(Hero target) {
+    public void attack(Lesson_08.Ex005.v2.Hero target) {
         
     }
 
     @Override
-    public void healing(Hero target) {
+    public void healing(Lesson_08.Ex005.v2.Hero target) {
         
     }
 }

@@ -1,17 +1,15 @@
-package Lesson_08.Ex003;
+package OOP_2.Lekcii.Lec_2.Ex003;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Random;
+import OOP_2.Lekcii.Lec_2.Ex003.alliance.Dwarf;
+//import OOP_2.*;
 
-import Lesson_08.Ex003.alliance.*;
-import Lesson_08.Ex003.*;
 
 public class Program {
     public static void main(String[] args) {
 
         // #region teams
         //// Когда героев становится больше
+
 
         // int teamCount = 10;
         // Random rand = new Random();
@@ -73,9 +71,10 @@ public class Program {
         BaseHero dh = new Druid();
         /*BaseHero*/
         Dwarf dwarf = new Dwarf();
-        //dwarf.dwarf_method();
-        //((Dwarf)dwarf).dwarf_method();
+        dwarf.dwarf_method();
+        ((Dwarf)dwarf).dwarf_method();
         System.out.println(dwarf.name);
+
         // #endregion
     }
 }

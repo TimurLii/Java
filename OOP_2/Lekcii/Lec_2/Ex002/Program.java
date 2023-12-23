@@ -1,10 +1,11 @@
-package Lesson_08.Ex002;
+package OOP_2.Lekcii.Lec_2.Ex002;
+
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-public class Program {
+public class   Program {
     public static void main(String[] args) {
 
         // #region teams
@@ -22,12 +23,12 @@ public class Program {
                 case 1:
                     teams.add(new Magician());
                     break;
-                case 2:
+                default :
                     teams.add(new Druid());
                     break;
-                default:
-                    teams.add(new BaseHero());
-                    break;
+//                default:
+//                    teams.add(new BaseHero());
+//                    break;
             }
             System.out.println(teams.get(i).getInfo());
         }
@@ -37,8 +38,8 @@ public class Program {
         // #endregion
         // #region
 
-        BaseHero hero = new BaseHero();
-        System.out.println(hero.getInfo());
+//        BaseHero hero = new BaseHero();
+//        System.out.println(hero.getInfo());
         Priest priest = new Priest();
         System.out.println(priest.getInfo());
         Druid druid = new Druid();

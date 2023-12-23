@@ -1,11 +1,11 @@
-package Lesson_08.Ex006.Format;
+package OOP_2.Lekcii.Lec_2.Ex006.Format;
+
+import Lesson_08.Ex006.Document.TextDocument;
 
 import java.io.FileWriter;
 import java.io.IOException;
 
-import Lesson_08.Ex006.Document.TextDocument;
-
-public class Md extends TextFormat {
+public class Md extends Lesson_08.Ex006.Format.TextFormat {
 
     @Override
     public void SaveAs(TextDocument document, String path) {

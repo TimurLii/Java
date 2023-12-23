@@ -1,5 +1,6 @@
-package Lesson_08.Ex002;
- 
+package OOP_2.Lekcii.Lec_2.Ex002;
+
+
 public class Priest extends BaseHero {
 
     private int elixir;
@@ -15,9 +16,14 @@ public class Priest extends BaseHero {
     public String getInfo() {
         return String.format("%s  Elixir: %d", super.getInfo(), this.elixir);
     }
-    
+
+    @Override
+    public void die() {
+
+    }
+
     public void attack(BaseHero target) {
-        int damage = BaseHero.r.nextInt(10, 20);
+        int damage = BaseHero.r.nextInt(100, 120);
         target.getDamage(damage);
     }
 }
