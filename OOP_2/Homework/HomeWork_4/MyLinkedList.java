@@ -20,15 +20,6 @@ public class MyLinkedList<T> implements LinkedList<T> {
             this.next = next;
             this.prev = prev;
         }
-
-        @Override
-        public String toString() {
-            return "Node{" +
-                    "item=" + item +
-                    ", next=" + next +
-                    ", prev=" + prev +
-                    '}';
-        }
     }
 
     private MyLinkedList.Node<T> head;
