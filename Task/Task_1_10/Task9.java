@@ -2,7 +2,7 @@ package Task.Task_1_10;
 
 public class Task9 {
     public static void main(String[] args) {
-        int n = 3;
+        int n = 10;
         System.out.println(climbStairs(n));
 
 
