@@ -108,7 +108,7 @@ GC Heap History (0 events):
 No events
 
 Dll operation events (1 events):
-Event: 0.027 Loaded shared library E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\java.dll
+Event: 0.027 Loaded shared library E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\java.dll
 
 Deoptimization events (0 events):
 No events
@@ -130,12 +130,12 @@ No events
 
 
 Dynamic libraries:
-0x00007ff64d700000 - 0x00007ff64d70a000 	E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\java.exe
+0x00007ff64d700000 - 0x00007ff64d70a000 	E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\java.exe
 0x00007ffc1fdb0000 - 0x00007ffc1ffc7000 	C:\WINDOWS\SYSTEM32\ntdll.dll
 0x00007ffc1f170000 - 0x00007ffc1f234000 	C:\WINDOWS\System32\KERNEL32.DLL
 0x00007ffc1d210000 - 0x00007ffc1d5b6000 	C:\WINDOWS\System32\KERNELBASE.dll
 0x00007ffc1d9b0000 - 0x00007ffc1dac1000 	C:\WINDOWS\System32\ucrtbase.dll
-0x00007ffc16cf0000 - 0x00007ffc16d07000 	E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\jli.dll
+0x00007ffc16cf0000 - 0x00007ffc16d07000 	E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\jli.dll
 0x00007ffc1ed20000 - 0x00007ffc1eece000 	C:\WINDOWS\System32\USER32.dll
 0x00007ffc02bb0000 - 0x00007ffc02e43000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.2506_none_270c5ae97388e100\COMCTL32.dll
 0x00007ffc1d7a0000 - 0x00007ffc1d7c6000 	C:\WINDOWS\System32\win32u.dll
@@ -143,11 +143,11 @@ Dynamic libraries:
 0x00007ffc1ef90000 - 0x00007ffc1efb9000 	C:\WINDOWS\System32\GDI32.dll
 0x00007ffc1d0f0000 - 0x00007ffc1d208000 	C:\WINDOWS\System32\gdi32full.dll
 0x00007ffc1d5c0000 - 0x00007ffc1d65a000 	C:\WINDOWS\System32\msvcp_win.dll
-0x00007ffc06440000 - 0x00007ffc0645b000 	E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\VCRUNTIME140.dll
+0x00007ffc06440000 - 0x00007ffc0645b000 	E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\VCRUNTIME140.dll
 0x00007ffc1efd0000 - 0x00007ffc1f001000 	C:\WINDOWS\System32\IMM32.DLL
-0x00007ffc0a420000 - 0x00007ffc0a42c000 	E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\vcruntime140_1.dll
-0x00007ffbf57d0000 - 0x00007ffbf585d000 	E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\msvcp140.dll
-0x00007ffbc75f0000 - 0x00007ffbc8272000 	E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\server\jvm.dll
+0x00007ffc0a420000 - 0x00007ffc0a42c000 	E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\vcruntime140_1.dll
+0x00007ffbf57d0000 - 0x00007ffbf585d000 	E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\msvcp140.dll
+0x00007ffbc75f0000 - 0x00007ffbc8272000 	E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\server\jvm.dll
 0x00007ffc1ea00000 - 0x00007ffc1eab1000 	C:\WINDOWS\System32\ADVAPI32.dll
 0x00007ffc1f0c0000 - 0x00007ffc1f165000 	C:\WINDOWS\System32\sechost.dll
 0x00007ffc1f4a0000 - 0x00007ffc1f5b7000 	C:\WINDOWS\System32\RPCRT4.dll
@@ -158,20 +158,20 @@ Dynamic libraries:
 0x00007ffc1eca0000 - 0x00007ffc1ed11000 	C:\WINDOWS\System32\WS2_32.dll
 0x00007ffc1c8f0000 - 0x00007ffc1c903000 	C:\WINDOWS\SYSTEM32\UMPDC.dll
 0x00007ffc1c0f0000 - 0x00007ffc1c108000 	C:\WINDOWS\SYSTEM32\kernel.appcore.dll
-0x00007ffc189b0000 - 0x00007ffc189ba000 	E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\jimage.dll
+0x00007ffc189b0000 - 0x00007ffc189ba000 	E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\jimage.dll
 0x00007ffc08610000 - 0x00007ffc08843000 	C:\WINDOWS\SYSTEM32\DBGHELP.DLL
 0x00007ffc1f960000 - 0x00007ffc1fce9000 	C:\WINDOWS\System32\combase.dll
 0x00007ffc1ebc0000 - 0x00007ffc1ec97000 	C:\WINDOWS\System32\OLEAUT32.dll
 0x00007ffbfaae0000 - 0x00007ffbfab12000 	C:\WINDOWS\SYSTEM32\dbgcore.DLL
 0x00007ffc1d660000 - 0x00007ffc1d6da000 	C:\WINDOWS\System32\bcryptPrimitives.dll
-0x00007ffc18970000 - 0x00007ffc18995000 	E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\java.dll
+0x00007ffc18970000 - 0x00007ffc18995000 	E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\java.dll
 
 dbghelp: loaded successfully - version: 4.0.5 - missing functions: none
-symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin;C:\WINDOWS\SYSTEM32;C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.2506_none_270c5ae97388e100;E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\server
+symbol engine: initialized successfully - sym options: 0x614 - pdb path: .;E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin;C:\WINDOWS\SYSTEM32;C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.22621.2506_none_270c5ae97388e100;E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\jbr\bin\server
 
 VM Arguments:
 java_command: git4idea.http.GitAskPassApp Username for 'https://github.com': 
-java_class_path (initial): E:/Проги/IntelliJ IDEA Community Edition 2023.2.2/plugins/vcs-git/lib/git4idea-rt.jar;E:/Проги/IntelliJ IDEA Community Edition 2023.2.2/lib/externalProcess-rt.jar
+java_class_path (initial): E:/пїЅпїЅпїЅпїЅпїЅ/IntelliJ IDEA Community Edition 2023.2.2/plugins/vcs-git/lib/git4idea-rt.jar;E:/пїЅпїЅпїЅпїЅпїЅ/IntelliJ IDEA Community Edition 2023.2.2/lib/externalProcess-rt.jar
 Launcher Type: SUN_STANDARD
 
 [Global flags]
@@ -202,7 +202,7 @@ Log output configuration:
  #1: stderr all=off uptime,level,tags
 
 Environment Variables:
-PATH=C:\Program Files\Git\mingw64\libexec\git-core;C:\Program Files\Git\mingw64\libexec\git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\moty2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\dotnet;C:\Program Files\dotnet;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files\Git\cmd;C:\Users\moty2\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\moty2\AppData\Local\Programs\Python\Python311;C:\Users\moty2\AppData\Local\Programs\Python\Launcher;C:\Users\moty2\AppData\Local\Microsoft\WindowsApps;D:\Проги\Microsoft VS Code\bin;C:\Users\moty2\.dotnet\tools;E:\Проги\IntelliJ IDEA Community Edition 2023.2.2\bin;D:\Проги\PyCharm 2023.2.1\bin;D:\Проги\PyCharm Community Edition 2023.2.1\bin
+PATH=C:\Program Files\Git\mingw64\libexec\git-core;C:\Program Files\Git\mingw64\libexec\git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\moty2\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files (x86)\dotnet;C:\Program Files\dotnet;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit;C:\Program Files\Git\cmd;C:\Users\moty2\AppData\Local\Programs\OOP_2.Lekcii.Lec_6.Python\Python311\Scripts;C:\Users\moty2\AppData\Local\Programs\OOP_2.Lekcii.Lec_6.Python\Python311;C:\Users\moty2\AppData\Local\Programs\OOP_2.Lekcii.Lec_6.Python\Launcher;C:\Users\moty2\AppData\Local\Microsoft\WindowsApps;D:\пїЅпїЅпїЅпїЅпїЅ\Microsoft VS Code\bin;C:\Users\moty2\.dotnet\tools;E:\пїЅпїЅпїЅпїЅпїЅ\IntelliJ IDEA Community Edition 2023.2.2\bin;D:\пїЅпїЅпїЅпїЅпїЅ\PyCharm 2023.2.1\bin;D:\пїЅпїЅпїЅпїЅпїЅ\PyCharm Community Edition 2023.2.1\bin
 USERNAME=Timur Lii
 DISPLAY=:0.0
 LC_ALL=en_US.UTF-8
