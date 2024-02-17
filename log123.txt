@@ -1,0 +1,2 @@
+февр. 17, 2024 8:19:42 AM Baza_1.HomeWork.Homewor_1.Log1 main
+INFO: Пример сообщения для логирования
