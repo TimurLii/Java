@@ -17,3 +17,15 @@ U
 :
 
 log123.txt,1\3\132a08c22f3ad5db5e5e0c358f9303451ab09107
+K
+Task/Task_10_20/Task11.java,2\9\2981fd41dcb3ea801f4f671f091cf18d91bb30a0
+U
+%OOP_2/Lekcii/Lec_1/Ex007/Program.java,3\4\3478d56b8a9454cb8119879f91a28be53714c88c
+V
+&Baza_1/HomeWork/HomeWork_4/Task_4.java,8\e\8e929178778126561da4799203296d5114cf8336
+V
+&Baza_1/HomeWork/HomeWork_4/Task_5.java,9\0\9073a8f95bb8031f2140ae9beae010d23a2a1ed7
+V
+&Baza_1/HomeWork/HomeWork_4/Task_6.java,2\1\218cd3f5cdd5c05d733a3bbbf6526bedea2af96c
+V
+&Baza_1/HomeWork/HomeWork_4/Task_7.java,5\0\5093a320d292213db1d189a0ff62426c4ccdc81c
