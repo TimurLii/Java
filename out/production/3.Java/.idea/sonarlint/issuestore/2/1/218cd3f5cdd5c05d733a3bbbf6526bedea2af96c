@@ -1,0 +1,10 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(«üÎŒ8Ä²çÖÜ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(»¦ùú8Æ²çÖÜ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯è Øşÿÿÿÿ8Ç²çÖÜ1
+r
+java:S1201"UEither override Object.equals(Object), or rename the method to prevent any confusion.(§ºôí8Ï²çÖÜ1
+L
+java:S1481"*Remove this unused "count" local variable.(šüñÔøÿÿÿÿ8Ğ²çÖÜ1
+X	java:S125"<This block of commented-out lines of code should be removed.(òùø¹8Ğ²çÖÜ1
