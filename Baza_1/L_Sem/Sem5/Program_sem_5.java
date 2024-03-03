@@ -5,11 +5,11 @@ import java.util.*;
 public class Program_sem_5 {
     public static void main(String[] args) {
 //        task1();
-//        System.out.println(task2("маска", "самка"));
+        System.out.println(task2("маска", "самка"));
 //        System.out.println(task3("{a}[+]{(d*3)}"));
-        task4("Мороз и солнце день чудесный " +
-                "Еще ты дремлешь друг прелестный " +
-                "Пора красавица проснись");
+//        task4("Мороз и солнце день чудесный " +
+//                "Еще ты дремлешь друг прелестный " +
+//                "Пора красавица проснись");
 
     }
 
@@ -60,6 +60,7 @@ public class Program_sem_5 {
                 map.put(c1[i], c2[i]);
             }
         }
+        System.out.println(map);
         return true;
     }
 
@@ -97,7 +98,6 @@ public class Program_sem_5 {
             if (map.containsKey(c[i])) stack.push(c[i]);
             if (map.containsValue(c[i])) {
                 if (stack.empty() || map.get(stack.pop()) != c[i]) return false;
-
             }
         }
         if (!stack.empty()) return false;
@@ -110,11 +110,11 @@ public class Program_sem_5 {
         Map<Integer, List<String>> map = new TreeMap<>();
         for (String word : words) {
             int len = word.length();
-            if (map.containsKey(len) ){
+            if (map.containsKey(len)) {
                 List<String> list = map.get(len);
                 list.add(word);
 
-            } else{
+            } else {
                 List<String> list = new ArrayList<>();
                 list.add(word);
                 map.put(len, list);

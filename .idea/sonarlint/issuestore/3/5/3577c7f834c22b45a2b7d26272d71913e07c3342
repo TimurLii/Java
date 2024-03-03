@@ -1,0 +1,20 @@
+
+o
+java:S1192"MDefine a constant instead of duplicating this literal "Ğ˜Ğ²Ğ°Ğ½Ğ¾Ğ²" 4 times.(Üô¯¿şÿÿÿÿ8‡–¯£Ş1
+L
+java:S1066d"/Merge this if statement with the enclosing one.(¶Èò8ˆ–¯£Ş1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍÃü¼ıÿÿÿÿ8ˆ–¯£Ş1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğà®”üÿÿÿÿ8‰–¯£Ş1
+r
+java:S1149Q"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8¤–¯£Ş1
+L	java:S106"+Replace this use of System.out by a logger.(ÏíÒúÿÿÿÿ8¥–¯£Ş1
+W	java:S125"<This block of commented-out lines of code should be removed.(“»ûd8¥–¯£Ş1
+X	java:S125	"<This block of commented-out lines of code should be removed.(ôèÓ‰8¦–¯£Ş1
+G	java:S106 "+Replace this use of System.out by a logger.(ÕÁ£ô8§–¯£Ş1
+F	java:S106!"+Replace this use of System.out by a logger.(¤°8¨–¯£Ş1
+L	java:S106""+Replace this use of System.out by a logger.(Ğ›Û·ûÿÿÿÿ8¨–¯£Ş1
+G	java:S106?"+Replace this use of System.out by a logger.(µˆœÑ8¯–¯£Ş1
+]	java:S125S"<This block of commented-out lines of code should be removed.(ı¹‹¢şÿÿÿÿ8¬–¯£Ş1
+^
+java:S1126g"AReplace this if-then-else statement by a single return statement.(¡—¢Ç8­–¯£Ş1
+G	java:S106{"+Replace this use of System.out by a logger.(µˆœÑ8ã£Â£Ş1
